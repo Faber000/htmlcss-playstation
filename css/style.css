@@ -14,3 +14,19 @@
 .lens-img {
     height: 40px;
 }
+
+.hero {
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+    height: 600px;
+}
+
+.returnal-banner {
+    height: 60px;
+}
+
+.small-img {
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+}
