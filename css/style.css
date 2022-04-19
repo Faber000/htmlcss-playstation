@@ -33,7 +33,7 @@
 }
 
 .small-img {
-    height: 100px;
+    height: 100px auto;
     width: 100%;
     border-radius: 10px;
 }
@@ -44,7 +44,7 @@
 }
 
 .ps5-img {
-    height: 700px;
+    height: 700px auto;
     width: 100%;
 }
 
@@ -59,8 +59,13 @@
 
 .new-release-img {
     width:100%;
-    height:200px;
+    height:200px auto;
     border-radius: 10px;
+}
+
+.product-ps4 {
+    height: 300px auto;
+    width: 100%;
 }
 
 
