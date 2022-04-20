@@ -93,3 +93,8 @@
 .ps-now-logo {
     height: 60px;
 }
+
+.social-img {
+    height: 200px auto;
+    width: 100%;
+}
