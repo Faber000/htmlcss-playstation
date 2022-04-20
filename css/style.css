@@ -98,3 +98,23 @@
     height: 200px auto;
     width: 100%;
 }
+
+footer {
+    background-color: rgb(0, 67, 156);
+}
+
+.white-logo {
+    filter: brightness(0) invert(1);
+}
+
+.globe-img {
+    height: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.sie-logo {
+    height: 50px;
+}
