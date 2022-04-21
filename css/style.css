@@ -30,7 +30,8 @@
 }
 
 .returnal-banner {
-    height: 60px;
+    height: 60px auto;
+    width: 100%;
 }
 
 .small-img {
@@ -67,7 +68,7 @@
 }
 
 .it-takes-two-logo {
-    height: 150px;
+    width: 50%;
 }
 
 .new-releases {
@@ -97,6 +98,8 @@
 
 .ps-plus-img {
     height: 400px;
+    width: 100%;
+    max-width: 500px;
 }
 
 .ps-store-img {
